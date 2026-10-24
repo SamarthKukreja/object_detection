@@ -20,7 +20,7 @@ This project focuses on detecting rocks and shadows from lunar terrain images us
 3. Clone this project repository:
 
    ```bash
-   git clone https://github.com/Sohm14/object_detection.git
+   git clone https://github.com/SamarthKukreja/object_detection.git
    ```
 
 ## YOLOv5 Nano
